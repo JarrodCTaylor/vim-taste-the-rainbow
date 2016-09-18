@@ -10,7 +10,7 @@ elseif g:colors_name == 'spartan'
     let g:default_color = ['#8A8A8A']
 elseif g:colors_name == 'immortals'
     let g:default_color = ['#444444']
-elseif g:colors_name = 'thermopylae'
+elseif g:colors_name == 'thermopylae'
     let g:default_color = ['#928374']
 endif
 
